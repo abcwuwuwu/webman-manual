@@ -18,7 +18,7 @@ composer require teamones/casbin
 
 详细使用可以去看官方中文文档，这里只讲怎么在webman中配置使用
 
-https://casbin.org/docs/zh-CN/overview
+https://casbin.apache.org/zh/docs/overview/
 
 ## 目录结构
 
